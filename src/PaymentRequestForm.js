@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Typography, Box, Grid, Alert, Button, TextField } from "@mui/material";
 
 const PAYMENT_PAGE_URL =
-  "https://racv--iagiqa--c.sandbox.vf.force.com/apex/ExternalCustomerPaymentVF";
+  "https://racv--iagidevpro--c.sandbox.vf.force.com/apex/ExternalCustomerPaymentVF";
 
 const UUID_PATTERN =
   /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
